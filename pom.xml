@@ -49,6 +49,7 @@
         <scope>import</scope>
       </dependency>
       <!--spring cloud Hoxton.SR1-->
+     <!--XIANING到此一游00000000000000000000000000000000000000000000000-->
       <dependency>
         <groupId>org.springframework.cloud</groupId>
         <artifactId>spring-cloud-dependencies</artifactId>
